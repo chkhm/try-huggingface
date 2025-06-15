@@ -1,6 +1,6 @@
 # Try 🤗 HuggingFace!
 
-This repository is a fork from: Alfredo Deza's Coursera training: [https://github.com/alfredodeza/try-huggingface](Try Huggingface)
+This repository is a fork from: Alfredo Deza's Coursera training: [Try Huggingface](https://github.com/alfredodeza/try-huggingface)
 
 You can either run this in a devcontainer or just plain and simple with:
 
